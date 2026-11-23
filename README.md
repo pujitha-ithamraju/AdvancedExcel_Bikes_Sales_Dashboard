@@ -3,8 +3,7 @@
 ## Project Overview
 The **Bike Sales Dashboard** analyzes customer demographics and purchasing behavior to understand factors influencing bike purchases. This dashboard helps businesses identify target customers and optimize sales strategies.
 
-![Bike Sales Dashboard](<img width="1109" height="983" alt="Screenshot 2026-01-12 093220" src="https://github.com/user-attachments/assets/f2d1bd99-3d90-4a3e-b6ca-e08facf72672" />)
-
+<img width="1109" height="983" alt="Bike Sales Dashboard" src="https://github.com/user-attachments/assets/f2d1bd99-3d90-4a3e-b6ca-e08facf72672" />
 
 ## Business Objectives
 - Analyze income patterns by gender
